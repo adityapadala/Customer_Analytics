@@ -1,7 +1,7 @@
 
 library("dplyr")
 library("ggplot2")
-setwd('D:/Aditya/Study/BCG')
+setwd('path')
 
 #splitting the sheets into two new csv files and importing
 
